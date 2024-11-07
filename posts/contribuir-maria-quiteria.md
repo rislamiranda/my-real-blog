@@ -21,11 +21,11 @@ Se você não for muito familiarizada com o Scrapy, sugiro fazer esse tutorial [
 
 1. Faça um fork do projeto com uma nova branch para que você tenha uma cópia do código na sua conta do GitHub.
 
-![Fork o projeto](images/fork-repository.png)
+![Fork o projeto](https://raw.githubusercontent.com/rislamiranda/my-real-blog/refs/heads/main/images/fork-repository.png)
 
 2. No fork que você fez para sua conta, é possível agora clonar o repositório para o seu computador. Assim você pode abrir o projeto em um editor de sua escolha pra trabalhar no issue que você escolheu! Para fazer isso vá no botão de **Code** e copie o link que aparece na caixinha.
 
-![Clone o projeto](images/clone-repository.jpg)
+![Clone o projeto](https://raw.githubusercontent.com/rislamiranda/my-real-blog/refs/heads/main/images/clone-repository.jpg)
 
 3. Abra seu terminal e vá para o local onde você quer clonar o repositório e insira o seguinte comando de git:
 
